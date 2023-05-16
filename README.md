@@ -1,5 +1,7 @@
 # Payment-Claim-Letter
 
+This is a Python script that generates payment claim letters using data from a CSV file. It utilizes the pandas, docxtpl, os, and num2words libraries to read the data, populate a template, and convert numerical values to words.
+
 Prerequisites
 Before running the script, make sure you have the following installed:
 
