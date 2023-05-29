@@ -23,7 +23,7 @@ Add placeholders ({{Name}}, {{Business}}, {{Debt}}, {{DebtLetter}}) in the Word 
 Run the Script
 Execute the script using the following command:
 
-python script.py
+python main.py
 
 Output
 The script will generate a payment claim letter for each unique account in the CSV file. The output files will be saved in the same folder as the script with the naming format: Account-Name.docx.
