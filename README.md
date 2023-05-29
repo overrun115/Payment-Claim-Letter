@@ -59,7 +59,7 @@ You can customize the script according to your specific requirements:
 Adjust the CSV file structure and column names to match your data.
 Modify the template (PaymentClaimLetter.docx) to match your desired letter format and content.
 Change the language for converting the debt amount to words by modifying the lang parameter in the ConvertToWords function.
-Authors
+Author
 Leandro DB overrun115@gmail.com
 License
 This project is licensed under the MIT License.
